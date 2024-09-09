@@ -11,7 +11,7 @@ University of Alberta
 <img style="float: right;" src="https://github.com/chennnnnyize/LLM_Impact_Energy_Systems/blob/main/src/alberta_logo.png" alt="University of Alberta logo" width="150">
 
 Contact: yuzhuo@ualberta.ca
-<a href="url"><img src="[http://url.to/image.png](https://github.com/user-attachments/assets/331b86ba-df35-42ee-878b-330b073a0951)" align="left" height="48" width="48" ></a>
+![image](https://github.com/user-attachments/assets/331b86ba-df35-42ee-878b-330b073a0951)
 
 
 ## Introduction
