@@ -1,4 +1,6 @@
 # LLM_Impact_Energy_Systems
+[![license](https://img.shields.io/github/license/InternLM/lagent.svg)](https://github.com/chennnnnyize/LLM_PowerSystems/blob/main/LICENSE)
+
 Modeling and Investigating the LLM electricity demand's impacts on Power and Energy Systems
 
 This is the repo for *The Unseen AI Disruptions for Power Grids: LLM-Induced Transients*
