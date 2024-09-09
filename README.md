@@ -8,7 +8,7 @@ This is the repo for *The Unseen AI Disruptions for Power Grids: LLM-Induced Tra
 Authors: Yuzhuo Li, Mariam Mughees, Yize Chen, Yunwei Ryan Li
 
 University of Alberta
-<img style="float: right;" src="https://github.com/chennnnnyize/LLM_Impact_Energy_Systems/blob/main/src/alberta_logo.png" alt="University of Alberta logo" width="150">
+
 
 Contact: yuzhuo@ualberta.ca
 ![image](https://github.com/user-attachments/assets/331b86ba-df35-42ee-878b-330b073a0951)
@@ -24,3 +24,6 @@ Consider the sizes of the models, the size of the data, along with the hardware 
 - [GPT2 on CUDA](https://github.com/karpathy/llm.c)
 - [nanoGPT on JAX](https://github.com/ROCm/rocm-blogs/tree/release/blogs/artificial-intelligence/nanoGPT-JAX)
 - [Mamba on ROCm](https://github.com/ROCm/rocm-blogs/tree/release/blogs/artificial-intelligence/mamba)
+
+
+<img style="float: right;" src="https://github.com/chennnnnyize/LLM_Impact_Energy_Systems/blob/main/src/alberta_logo.png" alt="University of Alberta logo" width="150">
