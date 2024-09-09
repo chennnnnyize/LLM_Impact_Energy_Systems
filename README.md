@@ -6,7 +6,7 @@ This is the repo for *The Unseen AI Disruptions for Power Grids: LLM-Induced Tra
 Authors: Yuzhuo Li, Mariam Mughees, Yize Chen, Yunwei Ryan Li
 
 University of Alberta
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ualberta.ca%2F&psig=AOvVaw3UtkojAAkGhBO_z-9AOppS&ust=1725987041958000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiiqfaotogDFQAAAAAdAAAAABAJ)
+![image](https://www.cleanpng.com/png-university-of-alberta-faculty-of-law-university-of-3763095/)
 
 Contact: yuzhuo@ualberta.ca
 
