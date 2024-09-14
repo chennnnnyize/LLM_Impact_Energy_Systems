@@ -26,4 +26,4 @@ Consider the sizes of the models, the size of the data, along with the hardware 
 - [Mamba on ROCm](https://github.com/ROCm/rocm-blogs/tree/release/blogs/artificial-intelligence/mamba)
 
 
-<img style="float: right;" src="https://github.com/chennnnnyize/LLM_Impact_Energy_Systems/blob/main/src/alberta_logo.png" alt="University of Alberta logo" width="150">
+<img style="float: right;" src="https://github.com/chennnnnyize/LLM_Impact_Energy_Systems/blob/main/src/university-logo.png" alt="University of Alberta logo" width="150">
