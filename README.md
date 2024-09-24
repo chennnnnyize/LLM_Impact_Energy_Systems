@@ -26,15 +26,7 @@ Consider the sizes of the models, the size of the data, along with the hardware 
 - [Mamba on ROCm](https://github.com/ROCm/rocm-blogs/tree/release/blogs/artificial-intelligence/mamba)
 
 **Links to the paper**:
-- [Arxiv] https://arxiv.org/abs/2409.11416
-- @misc{li2024unseenaidisruptionspower,
-      title={The Unseen AI Disruptions for Power Grids: LLM-Induced Transients}, 
-      author={Yuzhuo Li and Mariam Mughees and Yize Chen and Yunwei Ryan Li},
-      year={2024},
-      eprint={2409.11416},
-      archivePrefix={arXiv},
-      primaryClass={cs.AR},
-      url={https://arxiv.org/abs/2409.11416}, 
-}
+- [Our paper] https://arxiv.org/abs/2409.11416
+- [To cite] Yuzhuo Li, Mariam Mughees, Yize Chen, and Yunwei Ryan Li. "The Unseen AI Disruptions for Power Grids: LLM-Induced Transients." arXiv preprint arXiv:2409.11416 (2024).
 
 <img style="float: right;" src="https://github.com/chennnnnyize/LLM_Impact_Energy_Systems/blob/main/src/university-logo.png" alt="University of Alberta logo" width="150">
