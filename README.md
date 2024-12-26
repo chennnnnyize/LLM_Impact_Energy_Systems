@@ -21,6 +21,8 @@ Recent breakthroughs of large language models (LLMs) have exhibited superior cap
 Consider the sizes of the models, the size of the data, along with the hardware limits on memory and computation, we are curating a list of results from experiments with feasible configurations.
 
 **Links to Key Repositories**:
+- [Llama-recipes](https://github.com/meta-llama/llama-recipes/tree/main)
+- [MIT-Supercloud](https://github.com/MIT-AI-Accelerator/MIT-Supercloud-Dataset)
 - [GPT2 on CUDA](https://github.com/karpathy/llm.c)
 - [nanoGPT on JAX](https://github.com/ROCm/rocm-blogs/tree/release/blogs/artificial-intelligence/nanoGPT-JAX)
 - [Mamba on ROCm](https://github.com/ROCm/rocm-blogs/tree/release/blogs/artificial-intelligence/mamba)
