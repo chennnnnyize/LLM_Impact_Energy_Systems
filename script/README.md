@@ -1,49 +1,54 @@
 # Coming soon ...
 
-/script/
-- README.md
-- bulk_inference/
-  - bulk_inference.py
-  - dataset_inspector_inference.py
-  - dataset_loader_inference.py
-  - dataset_processor_inference.py
-  - dataset_sampler_inference.py
-  - model_server_inference.py
-  - requirements_inference.txt
-  - inference_data/
-  - inference_power_consumption/
-- finetune/
-  - command_2024_11_04.txt
-  - finetune_command.txt
-  - finetune_custom_dataset.py
-  - finetune_custom_dataset_2024_11_04.py
-  - finetune_datasets.py
-  - finetune_finetuning.py
-  - finetune_script_llama_recipes.txt
-  - finetune_training.py
-  - finetune__init__.py
-  - finetune_data/
-    - public_data.txt
-  - finetune_power_consumption/
-- power_monitor/
-  - amd_gpu_csv.py
-  - intel_cpu_csv.py
-  - nvidia_gpu_csv.py
-- rag/
-  - rag_automation.py
-  - rag_bulk_query_test.py
-  - rag_check_setup.py
-  - rag_document_processor.py
-  - rag_model_server.py
-  - rag_process_sample_file.py
-  - rag_query_client.py
-  - rag_requirements.txt
-  - rag_run_bulk_test.py
-  - rag_run_parallel_test.py
-  - rag_service.py
-  - rag_setup_check.py
-  - rag_vllm_monitor.py
-- train/
-  - local_training_script_llm.c.txt
-  - train_data/
-  - train_power_consumption/
+graph LR
+    A[script] --> B[README.md]
+    A --> C[bulk_inference]
+    A --> D[finetune]
+    A --> E[power_monitor]
+    A --> F[rag]
+    A --> G[train]
+    
+    C --> C1[bulk_inference.py]
+    C --> C2[dataset_inspector_inference.py]
+    C --> C3[dataset_loader_inference.py]
+    C --> C4[dataset_processor_inference.py]
+    C --> C5[dataset_sampler_inference.py]
+    C --> C6[model_server_inference.py]
+    C --> C7[requirements_inference.txt]
+    C --> C8[inference_data/]
+    C --> C9[inference_power_consumption/]
+    
+    D --> D1[command_2024_11_04.txt]
+    D --> D2[finetune_command.txt]
+    D --> D3[finetune_custom_dataset.py]
+    D --> D4[finetune_custom_dataset_2024_11_04.py]
+    D --> D5[finetune_datasets.py]
+    D --> D6[finetune_finetuning.py]
+    D --> D7[finetune_script_llama_recipes.txt]
+    D --> D8[finetune_training.py]
+    D --> D9[finetune__init__.py]
+    D --> D10[finetune_data/]
+    D10 --> D10_1[public_data.txt]
+    D --> D11[finetune_power_consumption/]
+    
+    E --> E1[amd_gpu_csv.py]
+    E --> E2[intel_cpu_csv.py]
+    E --> E3[nvidia_gpu_csv.py]
+    
+    F --> F1[rag_automation.py]
+    F --> F2[rag_bulk_query_test.py]
+    F --> F3[rag_check_setup.py]
+    F --> F4[rag_document_processor.py]
+    F --> F5[rag_model_server.py]
+    F --> F6[rag_process_sample_file.py]
+    F --> F7[rag_query_client.py]
+    F --> F8[rag_requirements.txt]
+    F --> F9[rag_run_bulk_test.py]
+    F --> F10[rag_run_parallel_test.py]
+    F --> F11[rag_service.py]
+    F --> F12[rag_setup_check.py]
+    F --> F13[rag_vllm_monitor.py]
+    
+    G --> G1[local_training_script_llm.c.txt]
+    G --> G2[train_data/]
+    G --> G3[train_power_consumption/]
