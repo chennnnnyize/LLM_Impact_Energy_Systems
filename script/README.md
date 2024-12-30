@@ -27,7 +27,7 @@ script/
 ├── power_monitor/
 │   ├── amd_gpu_csv.py
 │   ├── intel_cpu_csv.py
-│   └── nvidia_gpu_csv.py
+│   └── nvidia_gpu_csv.py 
 ├── rag/
 │   ├── rag_automation.py
 │   ├── rag_bulk_query_test.py
@@ -46,6 +46,3 @@ script/
     ├── local_training_script_llm.c.txt
     ├── train_data/
     └── train_power_consumption/
-        local_training_script_llm.c.txt
-        train_data/
-        train_power_consumption/
