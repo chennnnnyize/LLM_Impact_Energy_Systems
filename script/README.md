@@ -1,5 +1,3 @@
-# Coming soon ...
-
 script/
 ├── README.md
 ├── bulk_inference/
