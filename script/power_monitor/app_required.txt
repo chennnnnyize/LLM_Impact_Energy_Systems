@@ -1,0 +1,5 @@
+for AMD, LibreHardwareMonitor-net472
+https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+
+for Intel, PCM
+https://github.com/intel/pcm

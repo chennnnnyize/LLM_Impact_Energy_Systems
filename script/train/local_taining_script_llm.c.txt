@@ -1,0 +1,2 @@
+https://github.com/karpathy/llm.c
+https://github.com/karpathy/llm.c/discussions/481
