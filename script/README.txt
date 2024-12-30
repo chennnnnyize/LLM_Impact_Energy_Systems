@@ -8,8 +8,6 @@ project_root_dir/
 │   ├── dataset_sampler_inference.py
 │   ├── model_server_inference.py
 │   ├── requirements_inference.txt
-│   ├── inference_data/
-│   └── inference_power_consumption/
 ├── finetune/
 │   ├── command_2024_11_04.txt
 │   ├── finetune_command.txt
@@ -20,9 +18,6 @@ project_root_dir/
 │   ├── finetune_script_llama_recipes.txt
 │   ├── finetune_training.py
 │   ├── finetune__init__.py
-│   ├── finetune_data/
-│   │   └── public_data.txt
-│   └── finetune_power_consumption/
 ├── power_monitor/
 │   ├── amd_gpu_csv.py
 │   ├── intel_cpu_csv.py
@@ -42,6 +37,4 @@ project_root_dir/
 │   ├── rag_setup_check.py
 │   └── rag_vllm_monitor.py
 └── train/
-    ├── local_training_script_llm.c.txt
-    ├── train_data/
-    └── train_power_consumption/
+    └── local_training_script_llm.c.txt
