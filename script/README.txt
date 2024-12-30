@@ -1,4 +1,4 @@
-project_root_dir/
+script/
 ├── README.txt
 ├── bulk_inference/
 │   ├── bulk_inference.py
