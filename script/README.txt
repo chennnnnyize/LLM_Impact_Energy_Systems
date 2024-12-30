@@ -1,5 +1,5 @@
-script/
-├── README.md
+project_root_dir/
+├── README.txt
 ├── bulk_inference/
 │   ├── bulk_inference.py
 │   ├── dataset_inspector_inference.py
@@ -8,8 +8,8 @@ script/
 │   ├── dataset_sampler_inference.py
 │   ├── model_server_inference.py
 │   ├── requirements_inference.txt
-│   └── inference_data/
-├── inference_power_consumption/
+│   ├── inference_data/
+│   └── inference_power_consumption/
 ├── finetune/
 │   ├── command_2024_11_04.txt
 │   ├── finetune_command.txt
@@ -19,10 +19,10 @@ script/
 │   ├── finetune_finetuning.py
 │   ├── finetune_script_llama_recipes.txt
 │   ├── finetune_training.py
-│   ├── finetune_init_.py
+│   ├── finetune__init__.py
 │   ├── finetune_data/
-│   └── public_data.txt
-├── finetune_power_consumption/
+│   │   └── public_data.txt
+│   └── finetune_power_consumption/
 ├── power_monitor/
 │   ├── amd_gpu_csv.py
 │   ├── intel_cpu_csv.py
